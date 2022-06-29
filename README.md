@@ -7,3 +7,10 @@ This project was held in Databricks with PySpark, since I used the IMDB database
         <p>This browser does not support PDFs. Please download the PDF with all the project explanation: <a href="https://github.com/beatrizctgoncalves/project_bda/blob/master/BDA%20-%20Project.pdf">Read PDF</a>.</p>
     </embed>
 </object>
+
+<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>To see the Notebook with all the developed work,<a href="https://github.com/beatrizctgoncalves/project_bda#:~:text=Exam_BDA_20210695.ipynb">
+        please check this link</a>.</p>
+    </embed>
+</object>
